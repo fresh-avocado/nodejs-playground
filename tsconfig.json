@@ -20,5 +20,6 @@
     //   "@models/*": ["./src/models/*"]
     // }
   },
-  "include": ["./src", "babel.config.js"]
+  "include": ["./src", "babel.config.js"],
+  "exclude": ["*.test.ts", "node_modules"]
 }

@@ -142,13 +142,9 @@ app.use(
 
 // TODO: implementar gzip compression como middleware en el router que se encarga de SSR
 
-// TODO: el repoooooo
-
 // TODO: implementar Caching
 
-// TODO: probar la configuración 'types' en tsconfig.json
-
-// TODO: implementar socketIO
+// TODO: Continuous Integration
 
 // con esto estoy diciendo SOLO exporta 'app'
 // si quiero exportar varias cosas, le meto: export.cosa = algo;
