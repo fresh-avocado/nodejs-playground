@@ -10,6 +10,10 @@ lerna-debug.log*
 # macOS
 .DS_Store
 
+# static
+static/*
+!static/.gitkeep
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
